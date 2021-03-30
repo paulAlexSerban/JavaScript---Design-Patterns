@@ -1,1 +1,1 @@
-# DesignPatterns-SOLID-Principles
+# Design Patterns - SOLID Principles
