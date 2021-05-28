@@ -1,1 +1,1 @@
-# Design Patterns - SOLID Principles
+# JavaScript - Design Patterns
